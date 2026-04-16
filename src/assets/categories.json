@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Solo en eBird",
+        "code": "ebird"
+    },
+    {
+        "name": "Solo en CERO",
+        "code": "cero"
+    },
+    {
+        "name": "CERO / introduced",
+        "code": "introduced"
+    },
+    {
+        "name": "CERO / unconfirmed",
+        "code": "unconfirmed"
+    }
+]

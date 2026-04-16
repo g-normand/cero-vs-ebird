@@ -1,0 +1,102 @@
+category,scientific_name,english_name,species_code,notes, ebird_checklist
+ebird,,Black-collared Swallow,https://ebird.org/species/blcswa2,Nuevo para Ecuador,https://ebird.org/checklist/S287219652
+ebird,,Orchard Oriole,https://ebird.org/species/orcori,Nuevo para Ecuador,https://ebird.org/checklist/S279931318
+ebird,,Black-faced Ibis,https://ebird.org/species/bkfibi1,Es un error,https://ebird.org/checklist/S283657455
+ebird,,Yellow-tufted Dacnis,https://ebird.org/species/bkfdac1,Split que no existe en CERO,https://ebird.org/checklist/S320925942
+ebird,,Scarlet-fronted Parakeet,https://ebird.org/species/scfpar2,Escapado?,https://ebird.org/checklist/S283161201
+ebird,,White-eyed Vireo,https://ebird.org/species/whevir,Nuevo para Ecuador,https://ebird.org/checklist/S290184751
+ebird,,Black Swift,https://ebird.org/species/blkswi,Nuevo para Ecuador,https://ebird.org/checklist/S129738947
+ebird,,Yellow-rumped Warbler,https://ebird.org/species/yerwar,Nuevo para Ecuador,https://ebird.org/checklist/S293577446
+cero,,Ovenbird, https://ebird.org/species/ovenbi1,non breeding,
+cero,,Pompadour Cotinga, https://ebird.org/species/pomcot1,confirmed,
+cero,,Tree Swallow, https://ebird.org/species/treswa,unconfirmed,
+cero,,Yellow-headed Blackbird, https://ebird.org/species/yehbla,unconfirmed,
+cero,,Turquoise-throated Puffleg, https://ebird.org/species/tutpuf1,confirmed,
+cero,,Black-browed Albatross, https://ebird.org/species/bkbalb,vagrant,
+cero,,Cinereous Finch, https://ebird.org/species/ciwfin1,unconfirmed,
+cero,,Piping Plover, https://ebird.org/species/pipplo,vagrant,
+cero,,Pale-billed Hornero, https://ebird.org/species/pabhor2,unconfirmed,
+cero,,Pale-legged Hornero, https://ebird.org/species/palhor3,confirmed,
+cero,,Wattled Curassow, https://ebird.org/species/watcur1,confirmed,
+cero,,Stripe-backed Bittern, https://ebird.org/species/stbbit1,unconfirmed,
+cero,,White-chinned Sapphire, https://ebird.org/species/whcsap1,confirmed,
+cero,,Mississippi Kite, https://ebird.org/species/miskit,unconfirmed,
+cero,,Northern Giant-Petrel, https://ebird.org/species/norgip1,vagrant,
+cero,,Red-crested Cardinal, https://ebird.org/species/reccar,introduced not breeding,
+cero,,Grasshopper Sparrow, https://ebird.org/species/graspa,extinct,
+cero,,Rufous-crested Coquette, https://ebird.org/species/ruccoq1,unconfirmed,
+cero,,Ashy Storm-Petrel, https://ebird.org/species/asspet,unconfirmed,
+cero,,Juan Fernandez Petrel, https://ebird.org/species/jufpet,vagrant,
+cero,,Warbling Vireo, https://ebird.org/species/eawvir1,vagrant,
+cero,,Blue-tufted Starthroat, https://ebird.org/species/bltsta2,unconfirmed,
+cero,,Red-billed Ground-Cuckoo, https://ebird.org/species/rbgcuc1,unconfirmed,
+cero,,Tui Parakeet, https://ebird.org/species/tuipar1,unconfirmed,
+cero,,Curve-billed Scythebill, https://ebird.org/species/cubscy1,confirmed,
+cero,,Pavonine Cuckoo, https://ebird.org/species/pavcuc1,confirmed,
+cero,,Rusty-faced Parrot, https://ebird.org/species/rufpar2,unconfirmed,
+cero,,Sapphire-spangled Emerald, https://ebird.org/species/saseme1,unconfirmed,
+cero,,Bar-bellied Woodcreeper, https://ebird.org/species/babwoo1,confirmed,
+cero,,Southern Yellowthroat, https://ebird.org/species/masyel5,unconfirmed,
+cero,,Jelski's Black-Tyrant, https://ebird.org/species/andtyr3,confirmed,
+cero,,Southern Fulmar, https://ebird.org/species/souful1,unconfirmed,
+cero,,Rufous-thighed Kite, https://ebird.org/species/rutkit1,unconfirmed,
+cero,,Puna Snipe, https://ebird.org/species/punsni1,unconfirmed,
+cero,,Southern Giant-Petrel, https://ebird.org/species/angpet1,vagrant,
+cero,,Green-tailed Goldenthroat, https://ebird.org/species/grtgol1,unconfirmed,
+cero,,Brown-crested Flycatcher, https://ebird.org/species/bncfly,unconfirmed,
+cero,,Spot-tailed Nightjar, https://ebird.org/species/sptnig1,confirmed,
+cero,,Mottled Petrel, https://ebird.org/species/motpet,unconfirmed,
+cero,,Nacunda Nighthawk, https://ebird.org/species/nacnig1,vagrant,
+introduced,,Rock Pigeon,https://ebird.org/species/rocpig,NATURALIZED,
+introduced,,White-winged Parakeet,https://ebird.org/species/whwpar,hay datos no naturalizados (a averiguar),https://ebird.org/checklist/S320960748
+introduced,,Tricolored Munia,https://ebird.org/species/trimun,NATURALIZED,
+introduced,,House Sparrow,https://ebird.org/species/houspa,NATURALIZED,
+unconfirmed,,Red-billed Ground-Cuckoo,https://ebird.org/species/rbgcuc1,,
+unconfirmed,,Scaled Dove,https://ebird.org/species/scadov1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S312378684
+unconfirmed,,Peruvian Pigeon,https://ebird.org/species/perpig2,no confiable sin documentación,https://ebird.org/checklist/S197029103
+unconfirmed,,Yellow-breasted Crake,https://ebird.org/species/yebcra1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S289813679
+unconfirmed,,Puna Snipe,https://ebird.org/species/punsni1,,
+unconfirmed,,Black Turnstone,https://ebird.org/species/blktur,es el mismo único registro que justifica tener esta especie en la lista de Ecuador,https://ebird.org/checklist/S19631245
+unconfirmed,,Sharp-tailed Sandpiper,https://ebird.org/species/shtsan,no confiable sin documentación,https://ebird.org/checklist/S95354797
+unconfirmed,,South Polar Skua,https://ebird.org/species/sopsku1,la única foto es demasiado pobre para confirmar; el registro de todos modos está en evaluación para el próximo reporte: https://ebird.org/checklist/S145221574,https://ebird.org/checklist/S196953829
+unconfirmed,,Chilean Skua,https://ebird.org/species/chisku1,este registro está publicado en el reporte 3. No cambia el estatus 'un' porque no tiene documentación,https://ebird.org/checklist/S19364840
+unconfirmed,,Blue-billed White-Tern,https://ebird.org/species/whiter4,hay otros registros de las mismas fechas que tienen fotos; he contactado a los observadores para que envíen sus registros a CERO para incluir en el reporte 8,https://ebird.org/checklist/S233029853
+unconfirmed,,Red-tailed Tropicbird,https://ebird.org/species/rettro,no confiable sin documentación,https://ebird.org/checklist/S43031631
+unconfirmed,,Black-footed Albatross,https://ebird.org/species/bkfalb,es el mismo único registro que justifica tener esta especie en la lista de Ecuador,https://ebird.org/checklist/S18959529
+unconfirmed,,Ashy Storm-Petrel,https://ebird.org/species/asspet,,
+unconfirmed,,Southern Fulmar,https://ebird.org/species/souful1,,
+unconfirmed,,Flesh-footed Shearwater,https://ebird.org/species/flfshe,registro no aceptado por CERO por falta de información para excluir otras posibles especies,https://ebird.org/checklist/S19356590
+unconfirmed,,Christmas Shearwater,https://ebird.org/species/chrshe,registro publicado en 2024 por los observadores; estatus cambiado en lista 2025-2026,https://ebird.org/checklist/S140893042
+unconfirmed,,Gould's Petrel,https://ebird.org/species/goupet1,es el mismo único registro que justifica tener esta especie en la lista de Ecuador,https://ebird.org/checklist/S27187381
+unconfirmed,,Mottled Petrel,https://ebird.org/species/motpet,,
+unconfirmed,,Kermadec Petrel,https://ebird.org/species/kerpet,"excelente registro, no tengo idea cómo contactar al observador para incluirlo en el reporte 8",https://ebird.org/checklist/S139904862
+unconfirmed,,Cape Gannet,https://ebird.org/species/capgan1,es el mismo único registro que justifica tener esta especie en la lista de Ecuador,https://ebird.org/checklist/S275902778
+unconfirmed,,Red-legged Cormorant,https://ebird.org/species/relcor1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S142868034
+unconfirmed,,Stripe-backed Bittern,https://ebird.org/species/stbbit1,,
+unconfirmed,,Chapman's Swift,https://ebird.org/species/chaswi2,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S198635263
+unconfirmed,,Green-tailed Goldenthroat,https://ebird.org/species/grtgol1,,
+unconfirmed,,Rufous-crested Coquette,https://ebird.org/species/ruccoq1,,
+unconfirmed,,Blue-tufted Starthroat,https://ebird.org/species/bltsta2,,
+unconfirmed,,Spot-throated Hummingbird,https://ebird.org/species/spthum2,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S127253068
+unconfirmed,,Sapphire-spangled Emerald,https://ebird.org/species/saseme1,,
+unconfirmed,,Rufous-thighed Kite,https://ebird.org/species/rutkit1,,
+unconfirmed,,Mississippi Kite,https://ebird.org/species/miskit,,
+unconfirmed,,Rufous-capped Nunlet,https://ebird.org/species/rucnun1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S124705839
+unconfirmed,,Tui Parakeet,https://ebird.org/species/tuipar1,,
+unconfirmed,,Rusty-faced Parrot,https://ebird.org/species/rufpar2,,
+unconfirmed,,Brownish Elaenia,https://ebird.org/species/broela1,este registro irá en el reporte 8,https://ebird.org/checklist/S260870672
+unconfirmed,,Rufous Flycatcher,https://ebird.org/species/ruffly1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S205602288
+unconfirmed,,Brown-crested Flycatcher,https://ebird.org/species/bncfly,,
+unconfirmed,,Piura Chat-Tyrant,https://ebird.org/species/pictyr1,irá en reporte 8,https://ebird.org/checklist/S197814796
+unconfirmed,,White-headed Marsh Tyrant,https://ebird.org/species/whmtyr1,ya le escribí al observador para que envíe su registro para el reporte 8,https://ebird.org/checklist/S262340675
+unconfirmed,,Dark-faced Ground-Tyrant,https://ebird.org/species/dafgrt1,registro publicado por el autor en 2025; cambia estatus en lista 2026,https://ebird.org/checklist/S242889022
+unconfirmed,,Pale-billed Hornero,https://ebird.org/species/pabhor2,,
+unconfirmed,,Black-whiskered Vireo,https://ebird.org/species/bkwvir,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S281288582
+unconfirmed,,Tree Swallow,https://ebird.org/species/treswa,,
+unconfirmed,,Cedar Waxwing,https://ebird.org/species/cedwax,es el mismo único registro que justifica tener esta especie en la lista de Ecuador,https://ebird.org/checklist/S19631174
+unconfirmed,,Yellow-headed Blackbird,https://ebird.org/species/yehbla,en el reporte 7 decidimos invalidar este registro; especie removida de la lista 2026,
+unconfirmed,,Eastern Meadowlark,https://ebird.org/species/easmea,ya le escribí a Miguel Hipo para que envíe su registro para el reporte 8,https://ebird.org/checklist/S210992209
+unconfirmed,,Southern Yellowthroat,https://ebird.org/species/masyel5,discutido como Geothlypis sp. en el reporte 7; en proceso de evaluación,
+unconfirmed,,Indigo Bunting,https://ebird.org/species/indbun,cambia el estatus a V en la lista 2026; registro publicado por Cadena et al. 2026,https://ebird.org/checklist/S19630938
+unconfirmed,,Gray Seedeater,https://ebird.org/species/grysee1,hay otro registro de Dusan que está en revisión para el reporte 8; contactaré al observador para que permita inclluir también este,https://ebird.org/checklist/S164189794
+unconfirmed,,Cinereous Finch,https://ebird.org/species/ciwfin1,,

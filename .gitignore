@@ -1,0 +1,5 @@
+
+.DS_Store
+data/MyEBirdData.csv
+node_modules/
+dist/

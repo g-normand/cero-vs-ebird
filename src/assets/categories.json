@@ -8,11 +8,11 @@
         "code": "cero"
     },
     {
-        "name": "CERO / introduced",
+        "name": "CERO / especies introducidas",
         "code": "introduced"
     },
     {
-        "name": "CERO / unconfirmed",
+        "name": "CERO / especies no documentadas",
         "code": "unconfirmed"
     }
 ]

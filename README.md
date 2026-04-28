@@ -9,6 +9,8 @@ Inspired by <a href="https://github.com/Zoziologie">Zoziologie</a> web apps :)
 ```
 git clone git@github.com:g-normand/cero-vs-ebird.git
 cd cero-vs-ebird
+make pip
+make diff_cero_and_ebird
 npm install
 
 FOR DEV:
@@ -23,3 +25,5 @@ With new species:
 Add species in data/species_list.csv
 npm run processSpecies
 ```
+EBIRD VS CERO:
+make diff_cero_and_ebird

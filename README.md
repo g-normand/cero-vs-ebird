@@ -12,18 +12,19 @@ cd cero-vs-ebird
 make pip
 make diff_cero_and_ebird
 npm install
-
-FOR DEV:
 npm run dev
+```
 
-FOR PROD:
+EBIRD VS CERO:
+```
+1/ Get data
+make diff_cero_and_ebird
+
+2/ Change species_list.csv
+
+3/ Run script
+npm run processSpecies
+
+4/ Deploy
 make deploy
 ```
-
-With new species:
-```
-Add species in data/species_list.csv
-npm run processSpecies
-```
-EBIRD VS CERO:
-make diff_cero_and_ebird

@@ -52,8 +52,14 @@
         La lista oficial de CERO se encuentra aquí : <a href="https://ceroecuador.wordpress.com/lista-oficial/">https://ceroecuador.wordpress.com/lista-oficial/</a>. <br />
         Este es el listado oficial de aves del Ecuador y comprende 1735 especies (1685 confirmadas, 50 no documentadas) hasta junio de 2025.<br />
         <br />
-        El listado de eBird es <a href="https://ebird.org/region/EC/bird-list">https://ebird.org/region/EC/bird-list</a> (1703 especies para el 17 de junio 2026)<br />
+        El listado de eBird es <a href="https://ebird.org/region/EC/bird-list">https://ebird.org/region/EC/bird-list</a> (1706 especies para el 3 de agosto 2026)<br />
         Por favor, seleccione una categoría.<br />
+        <b>HISTORICO</b>
+        <ul>
+          <li>3 de agosto 2026 : 1706 especies : White-tailed Tropicbird y Hooded Warbler</li>
+          <li>18 de junio 2026 : 1704 especies : Brown Booby y Red-billed Ground-Cuckoo</li>
+          <li>15 de abril 2026 : Primera version de la app con 1702 especies en eBird Ecuador</li>
+        </ul>
         <b-button squared v-b-toggle.sidebar-categories class="categories-button" v-show="show_categories_button">Ver categorías</b-button>
       </b-card>
     </b-col>

@@ -7,6 +7,8 @@ ebird,,White-eyed Vireo,https://ebird.org/species/whevir,Nuevo para Ecuador,http
 ebird,,Black Swift,https://ebird.org/species/blkswi,Nuevo para Ecuador,https://ebird.org/checklist/S129738947
 ebird,,Yellow-rumped Warbler,https://ebird.org/species/yerwar,Nuevo para Ecuador,https://ebird.org/checklist/S293577446
 ebird,,Brown Booby,https://ebird.org/species/brnboo,Nuevo para Ecuador,https://ebird.org/checklist/S352118155
+ebird,,Hooded Warbler,https://ebird.org/species/hoowar,Nuevo para Ecuador,https://ebird.org/checklist/S25615863
+ebird,,White-tailed Tropicbird,https://ebird.org/species/whttro,Nuevo para Ecuador,https://ebird.org/checklist/S356874031
 cero,,Ovenbird, https://ebird.org/species/ovenbi1,non breeding,
 cero,,Pompadour Cotinga, https://ebird.org/species/pomcot1,confirmed,
 cero,,Tree Swallow, https://ebird.org/species/treswa,unconfirmed,
@@ -29,7 +31,6 @@ cero,,Ashy Storm-Petrel, https://ebird.org/species/asspet,unconfirmed,
 cero,,Juan Fernandez Petrel, https://ebird.org/species/jufpet,vagrant,
 cero,,Warbling Vireo, https://ebird.org/species/eawvir1,vagrant,
 cero,,Blue-tufted Starthroat, https://ebird.org/species/bltsta2,unconfirmed,
-cero,,Red-billed Ground-Cuckoo, https://ebird.org/species/rbgcuc1,unconfirmed,
 cero,,Tui Parakeet, https://ebird.org/species/tuipar1,unconfirmed,
 cero,,Curve-billed Scythebill, https://ebird.org/species/cubscy1,confirmed,
 cero,,Pavonine Cuckoo, https://ebird.org/species/pavcuc1,confirmed,
@@ -51,7 +52,7 @@ introduced,,Rock Pigeon,https://ebird.org/species/rocpig,NATURALIZED,
 introduced,,White-winged Parakeet,https://ebird.org/species/whwpar,hay datos no naturalizados (a averiguar),https://ebird.org/checklist/S320960748
 introduced,,Tricolored Munia,https://ebird.org/species/trimun,NATURALIZED,
 introduced,,House Sparrow,https://ebird.org/species/houspa,NATURALIZED,
-unconfirmed,,Red-billed Ground-Cuckoo,https://ebird.org/species/rbgcuc1,,
+unconfirmed,,Red-billed Ground-Cuckoo,https://ebird.org/species/rbgcuc1,???,https://ebird.org/checklist/S226661993
 unconfirmed,,Scaled Dove,https://ebird.org/species/scadov1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S312378684
 unconfirmed,,Peruvian Pigeon,https://ebird.org/species/perpig2,no confiable sin documentación,https://ebird.org/checklist/S197029103
 unconfirmed,,Yellow-breasted Crake,https://ebird.org/species/yebcra1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S289813679

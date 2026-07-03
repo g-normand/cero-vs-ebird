@@ -15,21 +15,21 @@ def extract_cero_data():
     cero_unconfirmed = {}
     cero_introduced = {}
     for row in ws.iter_rows(min_row=2):
-        key = row[18].value   # Column S (Clem Common Name)
+        english_name = row[18].value   # Column S (Clem Common Name)
         value = row[4].value # Column E
     
-        if key is not None:
+        if english_name is not None:
             if simple:
-                cero_data[key] = CERO[value]
+                cero_data[english_name] = CERO[value]
             else:
-                cero_data[key] = f"cero,,{key},,{CERO[value]},"
+                cero_data[english_name] = f"cero,,{english_name},,{CERO[value]},"
             if value == 'un':
                 if simple:
-                     cero_unconfirmed[key] = CERO[value]
+                     cero_unconfirmed[english_name] = CERO[value]
                 else:
-                     cero_unconfirmed[key] = f"cero_unconfirmed,,{key},,{CERO[value]},"
+                     cero_unconfirmed[english_name] = f"cero_unconfirmed,,{english_name},,{CERO[value]},"
             if value == 'in':
-               cero_introduced[key] = CERO[value]
+               cero_introduced[english_name] = CERO[value]
     return cero_data, cero_unconfirmed, cero_introduced
 
 def extract_observation_dates(url):
@@ -42,10 +42,10 @@ def extract_observation_dates(url):
         time_tag = li.find('time')
         is_sensitive = li.find('button', class_='Sensitive-badge') is not None
         if (time_tag and time_tag.has_attr('datetime')) or is_sensitive:
-            ebird_name = li.get('id')
-            species = li.find('span', class_='Species-common').get_text(strip=True)
+            ebird_id = li.get('id')
+            english_name = li.find('span', class_='Species-common').get_text(strip=True)
             checklist = ''
-            if 'sp.' in species or '/' in species or '(hybrid)' in species or 'undescribed' in species:
+            if 'sp.' in english_name or '/' in english_name or '(hybrid)' in english_name or 'undescribed' in english_name:
                 continue
             is_exotic = li.find('svg', class_='Icon--exoticEscapee') is not None
             if is_exotic:
@@ -59,15 +59,15 @@ def extract_observation_dates(url):
                 value = f'dato ebird (NATURALIZED)'
             elif time_tag:
                 checklist = li.find('div', class_='Obs-date').find('a').get('href')
-                ebird_checklists[species] = checklist
+                ebird_checklists[english_name] = checklist
                 value = f'dato en ebird ({datetime.strptime(time_tag["datetime"], "%Y-%m-%d %H:%M")})'
             else:
                 value = 'dato en ebird'
              
             if simple:
-                ebird_data[species] = value
+                ebird_data[english_name] = value
             else:
-                ebird_data[species] = f'ebird,,{species},https://ebird.org/species/{ebird_name},{value},{checklist}'
+                ebird_data[english_name] = f'ebird,,{english_name},https://ebird.org/species/{ebird_id},{value},{checklist}'
     return ebird_data, ebird_checklists
 
 ebird_data, ebird_checklists = extract_observation_dates('https://ebird.org/region/EC/bird-list')
@@ -77,29 +77,29 @@ only_in_ebird = {k: ebird_data[k] for k in ebird_data.keys() - cero_data.keys()}
 only_in_cero = {k: cero_data[k] for k in cero_data.keys() - ebird_data.keys()}
 
 print(f'ONLY IN EBIRD ({len(only_in_ebird)})')
-for species in only_in_ebird:
+for english_name in only_in_ebird:
     if simple:
-        print(species, ' : ', ebird_data[species])
+        print(english_name, ' : ', ebird_data[english_name])
     else:
-        print(ebird_data[species])
+        print(ebird_data[english_name])
 print('')
 print(f'ONLY IN CERO ({len(only_in_cero)})')
-for species in only_in_cero:
+for english_name in only_in_cero:
     if simple:
-        print(species, ' : ', cero_data[species])
+        print(english_name, ' : ', cero_data[english_name])
     else:
-        print(cero_data[species])
+        print(cero_data[english_name])
 print('')
 print('___ INTRODUCED IN THE CERO LIST__')
-for species in cero_introduced:
+for english_name in cero_introduced:
     if simple:
-        print(species, ' : ', ebird_data[species])
+        print(english_name, ' : ', ebird_data[english_name])
     else:
-        print(ebird_data[species].replace('ebird,', 'introduced,'))
+        print(ebird_data[english_name].replace('ebird,', 'introduced,'))
 print('')
 print('___UNCONFIRMED IN THE CERO LIST__')
-for species in cero_unconfirmed:
+for english_name in cero_unconfirmed:
     if simple:
-        print(species, ' ; ', ebird_data[species] if species in ebird_data else 'NO DATA',' ; ', ebird_checklists[species] if species in ebird_checklists else 'NO DATA')
+        print(english_name, ' ; ', ebird_data[english_name] if english_name in ebird_data else 'NO DATA',' ; ', ebird_checklists[english_name] if english_name in ebird_checklists else 'NO DATA')
     else:
-        print(ebird_data[species].replace('ebird,', 'unconfirmed,') if species in ebird_data else f'unconfirmed,,{species},,,')
+        print(ebird_data[english_name].replace('ebird,', 'unconfirmed,') if english_name in ebird_data else f'unconfirmed,,{english_name},,,')

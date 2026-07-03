@@ -20,11 +20,15 @@ EBIRD VS CERO:
 1/ Get data
 make diff_cero_and_ebird
 
-2/ Change species_list.csv
+2/ Change CSV
+gedit data/species_list.csv
 
 3/ Run script
 npm run processSpecies
 
-4/ Deploy
+4/ Modify body
+gedit src/components/SpeciesCategory.vue 
+
+5/ Deploy
 make deploy
 ```

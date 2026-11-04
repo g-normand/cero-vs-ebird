@@ -9,6 +9,11 @@ ebird,,Yellow-rumped Warbler,https://ebird.org/species/yerwar,Nuevo para Ecuador
 ebird,,Brown Booby,https://ebird.org/species/brnboo,Nuevo para Ecuador,https://ebird.org/checklist/S352118155
 ebird,,Hooded Warbler,https://ebird.org/species/hoowar,Nuevo para Ecuador,https://ebird.org/checklist/S25615863
 ebird,,White-tailed Tropicbird,https://ebird.org/species/whttro,Nuevo para Ecuador,https://ebird.org/checklist/S356874031
+ebird,,Roseate Tern,https://ebird.org/species/roster,Nuevo para Ecuador,https://ebird.org/checklist/S406677214
+ebird,,Yellow-throated Warbler,https://ebird.org/species/yetwar,Nuevo para Ecuador,https://ebird.org/checklist/S407610748
+ebird,,Saltmarsh Willet,https://ebird.org/species/willet2,Nuevo para Ecuador,https://ebird.org/checklist/S407405312
+ebird,,Brown Skua,https://ebird.org/species/brnsku3,Nuevo para Ecuador,https://ebird.org/checklist/S402112251
+ebird,,Festive Coquette,https://ebird.org/species/fescoq3,Error?,https://ebird.org/checklist/S312484664
 cero,,Ovenbird, https://ebird.org/species/ovenbi1,non breeding,
 cero,,Pompadour Cotinga, https://ebird.org/species/pomcot1,confirmed,
 cero,,Tree Swallow, https://ebird.org/species/treswa,unconfirmed,
@@ -22,7 +27,6 @@ cero,,Pale-legged Hornero, https://ebird.org/species/palhor3,confirmed,
 cero,,Wattled Curassow, https://ebird.org/species/watcur1,confirmed,
 cero,,Stripe-backed Bittern, https://ebird.org/species/stbbit1,unconfirmed,
 cero,,White-chinned Sapphire, https://ebird.org/species/whcsap1,confirmed,
-cero,,Mississippi Kite, https://ebird.org/species/miskit,unconfirmed,
 cero,,Northern Giant-Petrel, https://ebird.org/species/norgip1,vagrant,
 cero,,Red-crested Cardinal, https://ebird.org/species/reccar,introduced not breeding,
 cero,,Grasshopper Sparrow, https://ebird.org/species/graspa,extinct,
@@ -81,7 +85,7 @@ unconfirmed,,Blue-tufted Starthroat,https://ebird.org/species/bltsta2,,
 unconfirmed,,Spot-throated Hummingbird,https://ebird.org/species/spthum2,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S127253068
 unconfirmed,,Sapphire-spangled Emerald,https://ebird.org/species/saseme1,,
 unconfirmed,,Rufous-thighed Kite,https://ebird.org/species/rutkit1,,
-unconfirmed,,Mississippi Kite,https://ebird.org/species/miskit,,
+unconfirmed,,Mississippi Kite,https://ebird.org/species/miskit,Primer registro en 2026!,https://ebird.org/checklist/S404360907
 unconfirmed,,Rufous-capped Nunlet,https://ebird.org/species/rucnun1,registro publicado en reporte 7; cambia estatus en la lista 2026,https://ebird.org/checklist/S124705839
 unconfirmed,,Tui Parakeet,https://ebird.org/species/tuipar1,,
 unconfirmed,,Rusty-faced Parrot,https://ebird.org/species/rufpar2,,
